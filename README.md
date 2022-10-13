@@ -1,6 +1,5 @@
 - Hi, I’m @kelvinokumu
 - I’m interested in Data Analysis (Python and SQL) and Mobile Application Development
-- I’m currently learning Data Analysis @Udacity
 - I’m looking to collaborate on Data Analysis project and Jetpack Compose.
 - How to reach me oumakelvinokumu@gmail.com
 
