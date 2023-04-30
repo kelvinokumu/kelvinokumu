@@ -1,6 +1,6 @@
 - Hi, I’m @kelvinokumu
 - I’m interested in Data Analysis (Python and SQL) and Mobile Application Development
-- I’m looking to collaborate on Data Analysis project and Jetpack Compose.
+- I’m looking to collaborate on Data Analysis project.
 - How to reach me oumakelvinokumu@gmail.com
 
 <!---
